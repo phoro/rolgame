@@ -8,7 +8,6 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 /* INICIALITZACIÓ */
 (function () {
     creaSelectOptions();
-    
 })()
 
 
